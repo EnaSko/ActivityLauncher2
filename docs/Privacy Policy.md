@@ -4,7 +4,7 @@ Last Updated: 25.03.2025.
 
 **1. Introduction**
 
-This Privacy Policy explains how Activity Launcher ("the App") collects, uses, and shares user data. By using the App, you agree to the collection and processing of data as described in this policy. The App is developed and maintained by This app is developed by an independent developer ("we," "us," or "our").
+This Privacy Policy explains how Activity Launcher ("the App") collects, uses, and shares user data. By using the App, you agree to the collection and processing of data as described in this policy. The App is developed and maintained by an independent developer ("we," "us," or "our").
 
 **2. Data Collection and Usage**
 
